@@ -1,2 +1,10 @@
-
 /* Your CSS Code here. */
+body{
+	font-family: Arial, sans-serif;
+	background-color: #f0f0f0;
+	text-aling: center;
+	padding-top: 50px;
+}
+#text{
+	color: #333
+}
