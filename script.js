@@ -1,4 +1,4 @@
 //your code here
-document.addEventListener('DOMCOntentLoaded', function(){
+document.addEventListener('DOMContentLoaded', function(){
 	console.log("JavaScript is running!");
 })
